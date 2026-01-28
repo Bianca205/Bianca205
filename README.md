@@ -74,7 +74,7 @@ Git · GitHub · Streamlit · Bubble · n8n
 
 ---
 
-## 📌 Atualmente
+## 📌Atualmente
 - Desenvolvendo projetos de **IA**
 - Aprimorando conhecimentos em **Machine Learning, automação e no-code**
 - Organizando portfólio e documentação técnica no GitHub
