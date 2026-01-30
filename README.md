@@ -1,16 +1,10 @@
 ### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca205&show_icons=true&theme=radical" />
+<p align="left">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca205&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </p>
 
 ### 💻 Linguagens & Frameworks
 `Python` | `GDScript` | `Bubble.io` | `n8n` | `OpenCV` | `SQL`
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bianca205&theme=tokyonight&hide_border=false" alt="Streak" />
-
-
-
 
 # 👋 Olá, eu sou a Gyovanna Garcês
 
